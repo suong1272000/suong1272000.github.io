@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e562fd39.css",
+    "main.js": "/static/js/main.90c4ff3e.js",
+    "static/media/VITRO CORE TTF.ttf": "/static/media/VITRO CORE TTF.82a2b0ef9f7a3886a8cd.ttf",
+    "index.html": "/index.html",
+    "main.e562fd39.css.map": "/static/css/main.e562fd39.css.map",
+    "main.90c4ff3e.js.map": "/static/js/main.90c4ff3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e562fd39.css",
+    "static/js/main.90c4ff3e.js"
+  ]
+}
